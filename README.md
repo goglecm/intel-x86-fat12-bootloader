@@ -1,2 +1,4 @@
-# intel-x86-fat12-bootloader
-Floppy drive bootloader for Intel x86 using FAT12 from back in 2014
+# Description
+
+Complete bootloader for Intel x86 CPUs. It works nicely on a VM, with a raw
+drive.
